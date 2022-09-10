@@ -1,0 +1,4 @@
+﻿  BigProject2.0.cpp
+D:\Ray\Visual Studio\（2019-2020第一学期）C语言\BigProject2.0\BigProject2.0.cpp(191,2): warning C4091: “typedef ”: 没有声明变量时忽略“NODE”的左侧
+D:\Ray\Visual Studio\（2019-2020第一学期）C语言\BigProject2.0\BigProject2.0.cpp(1257,12): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  BigProject2.0.vcxproj -> D:\Ray\Visual Studio\（2019-2020第一学期）C语言\BigProject2.0\Debug\BigProject2.0.exe
